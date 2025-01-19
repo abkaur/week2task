@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: python-container
-        image: abkaur95/week2task:1.0.0
+        image: abkaur95/week2task:1.0.1
         ports:
         - containerPort: 5000
         env:
