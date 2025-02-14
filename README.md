@@ -1,2 +1,2 @@
 # week2task
-week 2 task
+Manifest repository (containing manifest files) 
